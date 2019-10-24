@@ -22,7 +22,7 @@ def game_over():
         endgame = True
         
     elif current_player == 'O':
-        print("The winner is Player X. Game over.")
+        print("The winner is Player O. Game over.")
         endgame = True
 
         
